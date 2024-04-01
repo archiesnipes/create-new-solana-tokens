@@ -39,9 +39,9 @@ Check your wallet to make sure the new tokens have been added.
 
 You need your token address for the next step.
 
-## Create new liquidity pool
+## Create market id and new liquidity pool
 
-The scripts to create market id, create new lp, and burn token is only available to premium users. If you'd like access to these scripts and the full in-depth workshop tutorial, check out the preview video and access link [here](https://)
+The scripts to create market id, create new lp, and burn token are only available to premium users. If you'd like access to these scripts and the full in-depth workshop tutorial, check out the preview video and access link [here](https://www.youtube.com/watch?v=f1hqFeCw2ro)
 
 ## Troubleshooting
 
